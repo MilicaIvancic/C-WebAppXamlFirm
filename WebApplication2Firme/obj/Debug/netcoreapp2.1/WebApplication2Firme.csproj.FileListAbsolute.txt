@@ -1,0 +1,14 @@
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\bin\Debug\netcoreapp2.1\WebApplication2Firme.deps.json
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\bin\Debug\netcoreapp2.1\WebApplication2Firme.runtimeconfig.json
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\bin\Debug\netcoreapp2.1\WebApplication2Firme.runtimeconfig.dev.json
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\bin\Debug\netcoreapp2.1\WebApplication2Firme.dll
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\bin\Debug\netcoreapp2.1\WebApplication2Firme.pdb
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.RazorAssemblyInfo.cache
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.RazorAssemblyInfo.cs
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.AssemblyInfo.cs
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.RazorTargetAssemblyInfo.cache
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.dll
+C:\Users\Milica\source\repos\WebApplication2Firme\WebApplication2Firme\obj\Debug\netcoreapp2.1\WebApplication2Firme.pdb
